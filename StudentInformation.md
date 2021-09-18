@@ -1,3 +1,4 @@
+```html
 <style>
 .link, .container a {
     text-decoration: none;
@@ -26,6 +27,7 @@
     padding: 2px;
 }
 </style>
+```
 
 # Hello, I'm Eigram Eclarin 👋🏻
 ---
@@ -33,8 +35,6 @@
 *Works at [Edi sa puso mo :'>](https://fb.com/Edi.sa.puso.mo/)*
 
 ###### <a href="https://fb.com/eigram.eclarin" class="link"> <i class="fa fa-facebook-square" style="color: #3b5998; width:.85em"></i> eigram.eclarin </a> <a href="https://instagram.com/dreeya_" class="link" style="margin-left: 5px"> <i class="fa fa-instagram" style="color: #dd2a7b"></i> @dreeya </a> <a href="https://twitter.com/eage_" class="link" style="margin-left: 5px;"> <i class="fa fa-twitter" style="color: #08a0e9"></i> @eage </a>
-
-<img src="" align="right" />
 
 ##### About Me 📝
 ```css
@@ -54,6 +54,7 @@ Eigram {
 ![Defend](https://ibb.co/fHhqwC0) ![SkS](https://ibb.co/BymkXLr) ![Salaknipdan](https://ibb.co/0jXnPrG)
 ![6Camps](https://ibb.co/cys0Vvs) ![Infog1](https://ibb.co/5nBvytf) ![Infog2](https://ibb.co/YfYwBrV)
 
+```html
 <details open>
     <summary> <b> Fave Tracks </b> 🎶 </summary>
     <div class="container">
@@ -154,3 +155,4 @@ Eigram {
         </a>
     </div>
 </details>
+```
