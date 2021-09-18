@@ -64,6 +64,9 @@ Eigram {
 
 ### Fave Movies 🎬
 
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white)
+
 <div>
     <a href="https://boxd.it/948A"><img src="https://i.pinimg.com/originals/01/75/76/017576d9ef1d839e29c12224dd39687b.jpg" height="250px"></a>
     <a href="https://boxd.it/htya"><img src="https://upload.wikimedia.org/wikipedia/en/3/36/Changing_Partners_%28film%29.jpg" height="250px"></a>
