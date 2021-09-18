@@ -1,4 +1,4 @@
-```html
+```{=html}
 <style>
 .link, .container a {
     text-decoration: none;
@@ -53,7 +53,7 @@ Eigram {
 ![Defend](https://ibb.co/fHhqwC0) ![SkS](https://ibb.co/BymkXLr) ![Salaknipdan](https://ibb.co/0jXnPrG)
 ![6Camps](https://ibb.co/cys0Vvs) ![Infog1](https://ibb.co/5nBvytf) ![Infog2](https://ibb.co/YfYwBrV)
 
-```html
+```{=html}
 <details open>
     <summary> <b> Fave Tracks </b> 🎶 </summary>
     <div class="container">
