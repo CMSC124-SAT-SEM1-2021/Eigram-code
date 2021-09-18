@@ -27,7 +27,7 @@
 }
 </style>
 
-#Hello, I'm Eigram Eclarin 👋🏻
+# Hello, I'm Eigram Eclarin 👋🏻
 ---
 *Studying at [University of the Philippines - Baguio](https://web.upb.edu.ph)* 
 *Works at [Edi sa puso mo :'>](https://fb.com/Edi.sa.puso.mo/)*
@@ -36,7 +36,7 @@
 
 <img src="" align="right" />
 
-#####About Me 📝
+##### About Me 📝
 ```css
 Eigram {
     pronouns: "she" | "her";
@@ -47,10 +47,10 @@ Eigram {
     latestWork: "twitter.com/CADUAUPB/status/1438807406830501896?s=20";
 }
 ```
-#####Why did you choose Computer Science?
+##### Why did you choose Computer Science?
 > I enjoy programming, but in some languages only. As a kid I wanted to build robots. I wanted to know how they were able to move and talk like a human. Though until now, I still haven't tried building one since I don't have the right equipments. I was in High School when I first learned my language– C++. At that time I still wasn't interested in Computer Science. The next school year, we learned about Visual Basic and that's when I started to enjoy programming. We were in our 4th Year and my love for Computer Science just started to grow. We learned about HTML and basic CSS. Comparing the websites I've made before and now, I'm proud of how far I've come. Computer Science is where I see myself working in the future.
 
-#####Some of my Works 👩🏻‍💻
+##### Some of my Works 👩🏻‍💻
 ![Defend](https://ibb.co/fHhqwC0) ![SkS](https://ibb.co/BymkXLr) ![Salaknipdan](https://ibb.co/0jXnPrG)
 ![6Camps](https://ibb.co/cys0Vvs) ![Infog1](https://ibb.co/5nBvytf) ![Infog2](https://ibb.co/YfYwBrV)
 
