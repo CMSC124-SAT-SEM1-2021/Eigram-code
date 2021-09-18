@@ -30,7 +30,6 @@
 ```
 
 # Hello, I'm Eigram Eclarin 👋🏻
----
 *Studying at [University of the Philippines - Baguio](https://web.upb.edu.ph)* 
 *Works at [Edi sa puso mo :'>](https://fb.com/Edi.sa.puso.mo/)*
 
