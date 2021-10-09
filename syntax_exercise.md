@@ -15,7 +15,7 @@ Derive the statement below and create a parse tree for it:
 * &lt;stmt&gt; -> &lt;exp&gt;
 * &lt;assign&gt; -> &lt;var&gt; = &lt;exp&gt;
 * &lt;var&gt; -> A | B | C
-* &lt;op&gt; -> + | - | * | / | ( | )
+* &lt;op&gt; -> + | - | * | /
 * &lt;exp&gt; -> &lt;var&gt; | &lt;assign&gt; | &lt;exp&gt; &lt;op&gt; &lt;exp&gt; | (&lt;exp&gt;)
 
 
