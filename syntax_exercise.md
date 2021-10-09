@@ -81,3 +81,4 @@ Derive the statement below and create a parse tree for it:
 +-- end
 ```
 
+![Parse Tree](https://github.com/CMSC124-SAT-SEM1-2021/Eigram-code/blob/ac761277839cb34cce6bc0b028b19df08d76085d/Parse%20Tree.png)
